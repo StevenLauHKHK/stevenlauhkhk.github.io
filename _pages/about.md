@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Research Engineer in the TCL AI Lab where I work on Computer Vision, Audio Processing, and Deep Learning. I received the B.E. degree in Information Engineering from City University of Hong Kong, in 2017. Over the past six years, I have gained valuable experience working on various projects, including audio recognition for smart home robots, anomaly detection for industrial applications, and low-level image enhancement tasks such as super-resolution and diffraction removal for under display cameras (UDC).
 
-In addition to my full-time work as an engineer, I am currently pursuing a part-time PhD degree at Department of Electrical Engineering, City University of Hong Kong. During my PhD study, I am working under the guidance of Dr. Lai-Man Po on the development of efficient and lightweight networks for image and audio recognition utilizing techniques like reparameterization. 
+In addition to my full-time work as an engineer, I am currently pursuing a part-time PhD degree at Department of Electrical Engineering, City University of Hong Kong. During my PhD study, I am working under the guidance of [Dr. Lai-Man Po](https://www.ee.cityu.edu.hk/~lmpo/) on the development of efficient and lightweight networks for image and audio recognition utilizing techniques like reparameterization. 
 
 Research Interests
 ======
