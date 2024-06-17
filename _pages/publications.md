@@ -18,11 +18,11 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 2. **Kin Wai Lau**, Lai-Man Po, Yasar Abbas Ur Rehman. <font color='Navy'>Large Separable Kernel Attention: Rethinking the Large Kernel Attention Design in CNN.</font> Expert Systems with Applications, 2023. <a href="https://arxiv.org/abs/2309.01439"> [Paper] </a> <a href="https://github.com/stevenlauhkhk/large-separable-kernel-attention"> [Code] </a>
 
-3. Tsai Hor Chan, **Kin Wai Lau**, Jiajun Shen, Guosheng Yin, Lequan Yu. Adaptive Uncertainty Estimation via High-Dimensional Testing on Latent Representations. NeurIPS, 2023. <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/7da558c6bd476ba77f5ba712626bba1a-Abstract-Conference.html"> [Paper] </a> <a href="https://github.com/HKU-MedAI/bnn_uncertainty"> [Code] </a>
+3. Tsai Hor Chan, **Kin Wai Lau**, Jiajun Shen, Guosheng Yin, Lequan Yu. <font color='Navy'>Adaptive Uncertainty Estimation via High-Dimensional Testing on Latent Representations.</font> NeurIPS, 2023. <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/7da558c6bd476ba77f5ba712626bba1a-Abstract-Conference.html"> [Paper] </a> <a href="https://github.com/HKU-MedAI/bnn_uncertainty"> [Code] </a>
 
 4. Yasar Abbas Ur Rehman, **Kin Wai Lau**, Yuyang Xie, Lan Ma, Jiajun Shen. <font color='Navy'>Exploring Federated Self-Supervised Learning for General Purpose Audio Understanding.</font> ICASSP workshop on Self-supervision in Audio, Speech and Beyond, 2024. <a href="https://arxiv.org/abs/2402.02889"> [Preprint] </a>
 
-5. Yuyang Xie, Jianhong Wen, **Kin Wai Lau**, Yasar Abbas Ur Rehman, Jiajun Shen. What should be equivariant in self-supervised learning.</font> CVPR Workshops on L3D-IVU, 2022. <a href="https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf"> [Paper] </a>
+5. Yuyang Xie, Jianhong Wen, **Kin Wai Lau**, Yasar Abbas Ur Rehman, Jiajun Shen. <font color='Navy'>What should be equivariant in self-supervised learning.</font> CVPR Workshops on L3D-IVU, 2022. <a href="https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Xie_What_Should_Be_Equivariant_in_Self-Supervised_Learning_CVPRW_2022_paper.pdf"> [Paper] </a>
 
 6. Wing-Yin Yu, Lai-Man Po, Yuzhi Zhao, Jingjing Xiong, **Kin-Wai Lau**. <font color='Navy'>Spatial content alignment for pose transfer.</font> ICME, 2021. <a href="https://arxiv.org/pdf/2103.16828"> [Paper] </a>
 
