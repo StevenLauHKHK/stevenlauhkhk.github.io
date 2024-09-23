@@ -17,6 +17,8 @@ Computer Vision, Audio Processing, Image enhancement, Image and audio representa
 
 News
 ======
+1. **[April 2024]** Our paper titled <font color='Navy'>"FedRepOpt: Gradient Re-parametrized Optimizers in Federated Learning"</font> has been accepted to the ACCV 2024.  [Coming Soon]
+
 1. **[April 2024]** Our paper titled <font color='Navy'>"Exploring Federated Self-Supervised Learning for General Purpose Audio Understanding"</font> has been accepted to the ICASSP-2024 workshop on Self-supervision in Audio, Speech and Beyond. <a href="https://arxiv.org/abs/2402.02889"> [Preprint] </a>
 
 2. **[February 2024]** Our paper titled <font color='Navy'>"AudioRepInceptionNeXt: A lightweight single-stream architecture for efficient audio recognition"</font> has been accepted in NeuroComputing. <a href="https://arxiv.org/pdf/2404.13551"> [Paper] </a> <a href="https://github.com/StevenLauHKHK/AudioRepInceptionNeXt"> [Code] </a>
