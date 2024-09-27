@@ -13,7 +13,7 @@ You can also find my full publication list on my [Google Scholar profile](https:
   {% include archive-single.html %}
 {% endfor %}
 
-1. **Kin Wai Lau**, Yasar Abbas Ur Rehman, Pedro Porto Buarque de Gusmão, Lai-Man Po, Lan Ma, Yuyang Xie. <font color='Navy'>FedRepOpt: Gradient Re-parametrized Optimizers in Federated Learning.</font>ACCV 2024. [Coming Soon]
+1. **Kin Wai Lau**, Yasar Abbas Ur Rehman, Pedro Porto Buarque de Gusmão, Lai-Man Po, Lan Ma, Yuyang Xie. <font color='Navy'>FedRepOpt: Gradient Re-parametrized Optimizers in Federated Learning.</font>ACCV 2024. <a href="https://arxiv.org/abs/2409.15898"> [Paper] </a> <a href="https://github.com/StevenLauHKHK/FedRepOpt"> [Code] </a>
 
 2. **Kin Wai Lau**, Yasar Abbas Ur Rehman, Lai-Man Po. <font color='Navy'>AudioRepInceptionNeXt: A lightweight single-stream architecture for efficient audio recognition.</font>Neurocomputing, 2024. <a href="https://arxiv.org/pdf/2404.13551"> [Paper] </a> <a href="https://github.com/StevenLauHKHK/AudioRepInceptionNeXt"> [Code] </a>
 
